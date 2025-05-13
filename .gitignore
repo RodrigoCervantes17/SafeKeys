@@ -1,3 +1,27 @@
+# Node modules
+node_modules/
+
+# Environment variables
 .env
-package-lock.json
-node_modules
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Coverage
+coverage/
+
+# Build artifacts
+dist/
+
+# Misc
+*.swp
